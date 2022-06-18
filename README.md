@@ -6,3 +6,4 @@ Patches applied:
 - center
 - highlight
 - grid
+- border
