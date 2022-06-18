@@ -5,3 +5,4 @@ Patches applied:
 - case insensitive
 - center
 - highlight
+- grid
