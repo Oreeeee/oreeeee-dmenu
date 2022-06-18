@@ -3,3 +3,4 @@
 
 Patches applied:
 - case insensitive
+- center
